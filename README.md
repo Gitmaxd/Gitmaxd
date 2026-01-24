@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=Hey,%20I'm%20Gitmaxd&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Indie%20Maker%20%E2%80%A2%20Building%20AI-Powered%20Developer%20Tools&descSize=16&descAlignY=55&descAlign=50"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,50:eaeef2,100:d0d7de&height=200&section=header&text=Hey,%20I'm%20Gitmaxd&fontSize=42&fontColor=24292f&animation=fadeIn&fontAlignY=35&desc=Indie%20Maker%20%E2%80%A2%20Building%20AI-Powered%20Developer%20Tools&descSize=16&descAlignY=55&descAlign=50"/>
-  <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=Hey,%20I'm%20Gitmaxd&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Indie%20Maker%20%E2%80%A2%20Building%20AI-Powered%20Developer%20Tools&descSize=16&descAlignY=55&descAlign=50"/>
-</picture>
+<div align="center">
+
+# Hey, I'm Gitmaxd 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Indie+Maker+%E2%80%A2+Building+AI-Powered+Developer+Tools;Shipping+MCP+integrations+%26+workflow+automation)](https://github.com/gitmaxd)
+
+</div>
 
 <div align="center">
 
@@ -174,8 +176,4 @@ Scaffold workflow systems into your project with a single command. Automate your
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,50:161b22,100:0d1117&height=100&section=footer"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:d0d7de,50:eaeef2,100:f6f8fa&height=100&section=footer"/>
-  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,50:161b22,100:0d1117&height=100&section=footer"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
