@@ -2,7 +2,7 @@
 
 # Hey, I'm Gitmaxd 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Indie+Maker+%E2%80%A2+Building+AI-Powered+Developer+Tools;Shipping+MCP+integrations+%26+workflow+automation)](https://github.com/gitmaxd)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Indie+Maker+%E2%80%A2+Building+AI-Powered+Developer+Tools;Shipping+MCP+Integrations+%26+Workflow+Automation)](https://github.com/gitmaxd)
 
 </div>
 
