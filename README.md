@@ -158,7 +158,7 @@ Scaffold workflow systems into your project with a single command. Automate your
 
 [![GitHub](https://img.shields.io/badge/GitHub-@gitmaxd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gitmaxd)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:131803031+Gitmaxd@users.noreply.github.com)
 
 </div>
 
