@@ -43,6 +43,24 @@ const gitmaxd = {
 <tr>
 <td width="50%" valign="top">
 
+### 🔥 [convex-firecrawl-scrape](https://github.com/Gitmaxd/convex-firecrawl-scrape)
+A Convex component for web scraping with Firecrawl API. Features durable caching and reactive queries.
+
+`TypeScript` `Convex` `Firecrawl`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔭 [field-theory-ui](https://github.com/Gitmaxd/field-theory-ui)
+Local-first web UI for exploring your X/Twitter bookmarks. AI-powered dashboards and natural language search.
+
+`TypeScript` `React` `LangChain`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🤖 [droid-mode](https://github.com/Gitmaxd/droid-mode)
 Progressive Code-Mode MCP integration for Factory.ai Droid. Enables seamless tool access without context bloat.
 
@@ -55,24 +73,6 @@ Progressive Code-Mode MCP integration for Factory.ai Droid. Enables seamless too
 Progressive MCP integration for Claude Code. Access MCP tools efficiently while preserving context.
 
 `JavaScript` `Claude` `MCP`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 [convex-firecrawl-scrape](https://github.com/Gitmaxd/convex-firecrawl-scrape)
-A Convex component for web scraping with Firecrawl API. Features durable caching and reactive queries.
-
-`TypeScript` `Convex` `Firecrawl`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ [flowfactory](https://github.com/Gitmaxd/flowfactory)
-Scaffold workflow systems into your project with a single command. Automate your development process.
-
-`Shell` `CLI` `Automation`
 
 </td>
 </tr>
